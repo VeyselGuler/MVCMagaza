@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/veyselmor/Desktop/works/MVC_Magaza/obj/Debug/net8.0/scopedcss/projectbundle/MVC_Magaza.bundle.scp.css",
+      "PackagePath": "staticwebassets/MVC_Magaza.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MVC_Magaza.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MVC_Magaza.props",
+      "PackagePath": "build\\MVC_Magaza.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MVC_Magaza.props",
+      "PackagePath": "buildMultiTargeting\\MVC_Magaza.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MVC_Magaza.props",
+      "PackagePath": "buildTransitive\\MVC_Magaza.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

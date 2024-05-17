@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "YrU9qbGXtNzMbvKgIMf1ZDfOLW97jfvbgyLtiaz5zuc=",
+  "Source": "MVC_Magaza",
+  "BasePath": "_content/MVC_Magaza",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_Magaza/wwwroot",
+      "Source": "MVC_Magaza",
+      "ContentRoot": "/Users/veyselmor/Desktop/works/MVC_Magaza/wwwroot/",
+      "BasePath": "_content/MVC_Magaza",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/veyselmor/Desktop/works/MVC_Magaza/obj/Debug/net8.0/scopedcss/bundle/MVC_Magaza.styles.css",
+      "SourceId": "MVC_Magaza",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/veyselmor/Desktop/works/MVC_Magaza/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/MVC_Magaza",
+      "RelativePath": "MVC_Magaza.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/veyselmor/Desktop/works/MVC_Magaza/obj/Debug/net8.0/scopedcss/bundle/MVC_Magaza.styles.css"
+    },
+    {
+      "Identity": "/Users/veyselmor/Desktop/works/MVC_Magaza/obj/Debug/net8.0/scopedcss/projectbundle/MVC_Magaza.bundle.scp.css",
+      "SourceId": "MVC_Magaza",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/veyselmor/Desktop/works/MVC_Magaza/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/MVC_Magaza",
+      "RelativePath": "MVC_Magaza.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/veyselmor/Desktop/works/MVC_Magaza/obj/Debug/net8.0/scopedcss/projectbundle/MVC_Magaza.bundle.scp.css"
+    }
+  ]
+}
